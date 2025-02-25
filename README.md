@@ -53,7 +53,7 @@ $ cd flowchart
 ```
 <img src="images/git-tut5.png">
 
-setelah berada di folder / directory "**flowchart**", pada contoh ini akan mencoba menambahkan file baru yang di beri nama "**.gitignore**" dengab cara menjalankan perintah seperti di bawah ini:
+setelah berada di folder / directory "**flowchart**", pada contoh ini akan mencoba menambahkan file baru yang di beri nama "**.gitignore**" dengan cara menjalankan perintah seperti di bawah ini:
 
 ```bash
 $ echo "" > .gitignore
